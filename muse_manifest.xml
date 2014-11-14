@@ -1,0 +1,65 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="464576388" ref="queja-enviada:contacto:sugerencia-enviada:ofertas:cotizador:centro-de-ayuda:mensaje-enviado:index:servicios:instrucciones:búsqueda-con-tracking:preguntas-frecuentes"/>
+    <file name="queja-enviada.css" crc="394985392" ref="queja-enviada"/>
+    <file name="contacto.css" crc="215797150" ref="contacto"/>
+    <file name="sugerencia-enviada.css" crc="4062919912" ref="sugerencia-enviada"/>
+    <file name="ofertas.css" crc="3909667764" ref="ofertas"/>
+    <file name="cotizador.css" crc="46008416" ref="cotizador"/>
+    <file name="centro-de-ayuda.css" crc="3859079467" ref="centro-de-ayuda"/>
+    <file name="mensaje-enviado.css" crc="4062408100" ref="mensaje-enviado"/>
+    <file name="index.css" crc="468057424" ref="index"/>
+    <file name="servicios.css" crc="412774517" ref="servicios"/>
+    <file name="instrucciones.css" crc="4166629027" ref="instrucciones"/>
+    <file name="b_squeda-con-tracking.css" crc="3931655440" ref="búsqueda-con-tracking"/>
+    <file name="preguntas-frecuentes.css" crc="418842800" ref="preguntas-frecuentes"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:mensaje-enviado:sugerencia-enviada:queja-enviada:preguntas-frecuentes:instrucciones:centro-de-ayuda"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:mensaje-enviado:sugerencia-enviada:queja-enviada:preguntas-frecuentes:instrucciones:centro-de-ayuda"/>
+    <file name="pie.js" crc="3827607177" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:mensaje-enviado:sugerencia-enviada:queja-enviada:preguntas-frecuentes:instrucciones:centro-de-ayuda"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:mensaje-enviado:sugerencia-enviada:queja-enviada:preguntas-frecuentes:instrucciones:centro-de-ayuda"/>
+    <file name="webpro.js" crc="3903299128" ref="contacto:búsqueda-con-tracking:servicios:preguntas-frecuentes:instrucciones"/>
+    <file name="form_check.php" crc="4225488401" ref="contacto"/>
+    <file name="form_throttle.php" crc="425392939" ref="contacto"/>
+    <file name="form-u432.php" crc="76985018" ref="contacto"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="búsqueda-con-tracking:servicios:preguntas-frecuentes:instrucciones"/>
+  </folder>
+  <folder name="images">
+    <file name="u69-grad.png" crc="145577096" ref="index"/>
+    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index"/>
+    <file name="u1175-r-grad.png" crc="4035561675" ref="index"/>
+    <file name="u1175-m-grad.png" crc="101498092" ref="index"/>
+    <file name="inicio 1.jpg" crc="411275267" ref="index"/>
+    <file name="u460-17.png" crc="3870170455" ref="contacto"/>
+    <file name="u460-17-r.png" crc="4141480996" ref="contacto"/>
+    <file name="u460-17-m.png" crc="321293131" ref="contacto"/>
+    <file name="u460-17-fs.png" crc="3821542641" ref="contacto"/>
+    <file name="contacto 1.jpg" crc="415481054" ref="contacto"/>
+    <file name="cotizador 1.jpg" crc="4041633319" ref="cotizador"/>
+    <file name="usps instrucciones 2.jpg" crc="3892112779" ref="búsqueda-con-tracking"/>
+    <file name="usps instrucciones.jpg" crc="3860761866" ref="búsqueda-con-tracking"/>
+    <file name="lasership instrucciones.jpg" crc="4109451644" ref="búsqueda-con-tracking"/>
+    <file name="fedex instrucciones.jpg" crc="222271537" ref="búsqueda-con-tracking"/>
+    <file name="busqueda de tracking 1.jpg" crc="323391765" ref="búsqueda-con-tracking"/>
+    <file name="smallflower.jpg" crc="3907111206" ref="servicios"/>
+    <file name="bigflower.jpg" crc="66846780" ref="servicios:instrucciones"/>
+    <file name="leaves.jpg" crc="249778734" ref="servicios"/>
+    <file name="servicios 1.jpg" crc="4238532165" ref="servicios:preguntas-frecuentes:instrucciones"/>
+    <file name="ofertas 1.jpg" crc="133647671" ref="ofertas"/>
+  </folder>
+  <file name="index.html" crc="3815854223" mt="1407092463205" redirect="true"/>
+  <file name="contacto.html" crc="4191175727" mt="1407092463215" redirect="true"/>
+  <file name="cotizador.html" crc="4004434552" mt="1407092463227" redirect="true"/>
+  <file name="búsqueda-con-tracking.html" crc="512290390" mt="1407092463239" redirect="true"/>
+  <file name="servicios.html" crc="206385838" mt="1407092463251" redirect="true"/>
+  <file name="ofertas.html" crc="365109915" mt="1407092463261" redirect="true"/>
+  <file name="mensaje-enviado.html" crc="82279269" mt="1407092463273" redirect="true"/>
+  <file name="sugerencia-enviada.html" crc="143081038" mt="1407092463285" redirect="true"/>
+  <file name="queja-enviada.html" crc="3770823173" mt="1407092463297" redirect="true"/>
+  <file name="preguntas-frecuentes.html" crc="380124245" mt="1407092463307" redirect="true"/>
+  <file name="instrucciones.html" crc="3790708227" mt="1407092463319" redirect="true"/>
+  <file name="centro-de-ayuda.html" crc="475765833" mt="1407092463331" redirect="true"/>
+</manifest>
