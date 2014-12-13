@@ -1,12 +1,12 @@
 #u69
 {
 	background: transparent url("../images/u69-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(24%, rgba(190, 193, 213, 0.3)),to(rgba(162, 167, 197, 0.89)));
-	background: -webkit-linear-gradient(top,rgba(190, 193, 213, 0.3) 24%,rgba(162, 167, 197, 0.89) );
-	background: -moz-linear-gradient(top,rgba(190, 193, 213, 0.3) 24%,rgba(162, 167, 197, 0.89) );
-	background: -ms-linear-gradient(top,rgba(190, 193, 213, 0.3) 24%,rgba(162, 167, 197, 0.89) );
-	background: -o-linear-gradient(top,rgba(190, 193, 213, 0.3) 24%,rgba(162, 167, 197, 0.89) );
-	background: linear-gradient(to bottom,rgba(190, 193, 213, 0.3) 24%,rgba(162, 167, 197, 0.89) );
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(24%, rgba(244, 245, 253, 0.3)),to(rgba(162, 167, 197, 0.89)));
+	background: -webkit-linear-gradient(top,rgba(244, 245, 253, 0.3) 24%,rgba(162, 167, 197, 0.89) );
+	background: -moz-linear-gradient(top,rgba(244, 245, 253, 0.3) 24%,rgba(162, 167, 197, 0.89) );
+	background: -ms-linear-gradient(top,rgba(244, 245, 253, 0.3) 24%,rgba(162, 167, 197, 0.89) );
+	background: -o-linear-gradient(top,rgba(244, 245, 253, 0.3) 24%,rgba(162, 167, 197, 0.89) );
+	background: linear-gradient(to bottom,rgba(244, 245, 253, 0.3) 24%,rgba(162, 167, 197, 0.89) );
 	border-style: none;
 	border-color: transparent;
 	position: relative;
@@ -20,7 +20,7 @@
 	background: transparent url("../images/4%20cuarto%20puto%20intento.png") no-repeat center center;
 }
 
-#u285-8
+#u285-10
 {
 	color: #252E69;
 	text-align: center;
@@ -418,25 +418,53 @@
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #E6E7EF;
+	background-color: #B0B4CE;
 	position: relative;
 }
 
-#u69_align_to_page,#menuu107,#u1174,#u1242,#u1235,#u1228,#u1221,#u1200,#u71_align_to_page,#u1578,#u1112,#u277
+#u69_align_to_page,#menuu107,#u1174,#u1242,#u1235,#u1228,#u1221,#u1200,#u71_align_to_page,#u1611-17
 {
 	position: relative;
+}
+
+#u1611-2,#u1611-4,#u1611-6,#u1611-8,#u1611-10,#u1611-12,#u1611-14
+{
+	text-align: center;
+	color: #252E69;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 }
 
 #u188-4
 {
+	line-height: 14px;
 	color: #252E69;
+	font-size: 12px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
+}
+
+#u1614
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	background: transparent url("../images/icono%20facebook.jpg") no-repeat left top;
 }
 
 #u189-4
 {
 	background-color: transparent;
+	color: #252E69;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u1813-4
+{
 	color: #252E69;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -461,13 +489,5 @@
 #u286-4:hover p,#u904-4:hover p,#u189-4:hover p,#u395-4:hover p,#u1577-4:hover p
 {
 	text-decoration: underline;
-}
-
-#u204,#u198,#u194,#u202,#u192
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
 }
 
