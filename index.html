@@ -7,9 +7,9 @@
   <title>Inicio</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?3983832653"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-p_gina-maestra.css?223951211"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-p_gina-maestra.css?4187629387"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-p_gina-maestra.css?505458731"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?359425460" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3879551082" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -106,6 +106,25 @@
      </div>
      <div class="clearfix grpelem" id="pu1905"><!-- column -->
       <div class="colelem" id="u1905"><!-- simple frame --></div>
+      <div class="SlideShowWidget clearfix colelem" id="slideshowu1928"><!-- none box -->
+       <div class="popup_anchor" id="u1962popup">
+        <div class="SlideShowContentPanel clearfix" id="u1962"><!-- stack box -->
+         <a class="nonblock nontext SSSlide clip_frame grpelem" id="u2022" href="http://www.amazon.com/PlayStation-4-Console/dp/B00BGA9WK2/ref=sr_1_2?ie=UTF8&amp;qid=1421885273&amp;sr=8-2&amp;keywords=playstation+4" target="_blank"><!-- image --><img class="block ImageInclude" id="u2022_img" data-src="images/playstation4.jpg" src="images/blank.gif" alt="" data-width="640" data-height="200"/></a>
+         <a class="nonblock nontext SSSlide invi clip_frame grpelem" id="u2036" href="http://www.amazon.com/GoPro-CHDHA-301-HERO/dp/B00NIYNUXO/ref=sr_1_1?s=photo&amp;ie=UTF8&amp;qid=1421886449&amp;sr=1-1&amp;keywords=gopro" target="_blank"><!-- image --><img class="block ImageInclude" id="u2036_img" data-src="images/gopro1.jpg" src="images/blank.gif" alt="" data-width="640" data-height="200"/></a>
+         <a class="nonblock nontext SSSlide invi clip_frame grpelem" id="u2050" href="http://www.apple.com/iphone-6/" target="_blank"><!-- image --><img class="block ImageInclude" id="u2050_img" data-src="images/iphone6.jpg" src="images/blank.gif" alt="" data-width="640" data-height="200"/></a>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u1972-4popup">
+        <div class="SSPreviousButton clearfix" id="u1972-4"><!-- content -->
+         <p><span id="u1972">&lt;</span></p>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u1969-4popup">
+        <div class="SSNextButton clearfix" id="u1969-4"><!-- content -->
+         <p>&gt;</p>
+        </div>
+       </div>
+      </div>
       <div class="clearfix colelem" id="u1900-7"><!-- content -->
        <p>Transportamos tu paquetería de Estados Unidos hacia Guatemala a la mejor tarifa.</p>
        <p>&nbsp;</p>
@@ -134,6 +153,7 @@
        <a class="nonblock nontext rounded-corners grpelem" id="u1614" href="http://www.facebook.com/tsggt" target="_blank"><!-- simple frame --></a>
        <div class="clearfix grpelem" id="pu189-4"><!-- column -->
         <a class="nonblock nontext clearfix colelem" id="u189-4" href="contacto-servicio-al-cliente.html"><!-- content --><p>Servicio al cliente</p></a>
+        <a class="nonblock nontext clearfix colelem" id="u1577-4" href="ayuda-amazon.html"><!-- content --><p>Centro de Ayuda</p></a>
         <a class="nonblock nontext clearfix colelem" id="u1813-4" href="tarifas-de-servicio-a-domicilio.html"><!-- content --><p>Tarifas de entrega a domicilio</p></a>
        </div>
       </div>
@@ -141,7 +161,6 @@
      <div class="clearfix grpelem" id="u395-4"><!-- content -->
       <p>Sugerencias</p>
      </div>
-     <a class="nonblock nontext clearfix grpelem" id="u1577-4" href="ayuda-amazon.html"><!-- content --><p>Centro de Ayuda</p></a>
     </div>
    </div>
   </div>
@@ -161,6 +180,10 @@
   <script src="scripts/museutils.js?4291592202" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?3788803530" type="text/javascript"></script>
   <script src="scripts/jquery.tobrowserwidth.js?3842421675" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3903299128" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?138381373" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?4250894771" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4156838003" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -168,6 +191,7 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 $('.browser_width').toBrowserWidth();/* browser width elements */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu1928', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,fullScreen:false})); });/* #slideshowu1928 */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
