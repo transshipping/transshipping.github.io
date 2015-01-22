@@ -58,7 +58,7 @@
 #menuu107
 {
 	z-index: 4;
-	width: 779px;
+	width: 766px;
 	margin-top: 5px;
 }
 
@@ -243,7 +243,7 @@
 
 #u1228
 {
-	width: 235px;
+	width: 215px;
 	min-height: 27px;
 	margin-right: -10000px;
 	left: 308px;
@@ -251,34 +251,34 @@
 
 #u1231
 {
-	width: 234px;
+	width: 214px;
 	padding-bottom: 10px;
 }
 
 #u1231:hover
 {
-	width: 235px;
+	width: 215px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1231:active
 {
-	width: 235px;
+	width: 215px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1231.MuseMenuActive
 {
-	width: 234px;
+	width: 214px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u1234-4
 {
-	width: 188px;
+	width: 168px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 5px;
@@ -303,42 +303,42 @@
 
 #u1221
 {
-	width: 118px;
+	width: 125px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 545px;
+	left: 525px;
 }
 
 #u1224
 {
-	width: 117px;
+	width: 124px;
 	padding-bottom: 10px;
 }
 
 #u1224:hover
 {
-	width: 118px;
+	width: 125px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1224:active
 {
-	width: 118px;
+	width: 125px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1224.MuseMenuActive
 {
-	width: 117px;
+	width: 124px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u1227-4
 {
-	width: 71px;
+	width: 78px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 5px;
@@ -366,7 +366,7 @@
 	width: 114px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 665px;
+	left: 652px;
 }
 
 #u1203
@@ -591,8 +591,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -675,8 +675,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -746,8 +746,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -830,8 +830,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -914,8 +914,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -998,8 +998,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -1082,8 +1082,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -1166,8 +1166,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -1249,8 +1249,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
