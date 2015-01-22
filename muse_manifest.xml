@@ -2,20 +2,20 @@
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
     <file name="master_a-p_gina-maestra.css" crc="4187629387" ref="contacto:ofertas:cotizador:centro-de-ayuda:index:servicios:instrucciones:búsqueda-con-tracking:preguntas-frecuentes:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
-    <file name="contacto.css" crc="4094555311" ref="contacto"/>
-    <file name="ofertas.css" crc="3769816165" ref="ofertas"/>
-    <file name="cotizador.css" crc="4150020779" ref="cotizador"/>
-    <file name="centro-de-ayuda.css" crc="4142815240" ref="centro-de-ayuda"/>
-    <file name="index.css" crc="3879551082" ref="index"/>
-    <file name="servicios.css" crc="3958813563" ref="servicios"/>
-    <file name="instrucciones.css" crc="4216411279" ref="instrucciones"/>
-    <file name="b_squeda-con-tracking.css" crc="4087106819" ref="búsqueda-con-tracking"/>
-    <file name="preguntas-frecuentes.css" crc="277384053" ref="preguntas-frecuentes"/>
+    <file name="contacto.css" crc="327732699" ref="contacto"/>
+    <file name="ofertas.css" crc="151689269" ref="ofertas"/>
+    <file name="cotizador.css" crc="4262025505" ref="cotizador"/>
+    <file name="centro-de-ayuda.css" crc="409476614" ref="centro-de-ayuda"/>
+    <file name="index.css" crc="147290106" ref="index"/>
+    <file name="servicios.css" crc="169998812" ref="servicios"/>
+    <file name="instrucciones.css" crc="290941271" ref="instrucciones"/>
+    <file name="b_squeda-con-tracking.css" crc="3929197651" ref="búsqueda-con-tracking"/>
+    <file name="preguntas-frecuentes.css" crc="3778638305" ref="preguntas-frecuentes"/>
     <file name="master_b-p_gina-maestra.css" crc="505458731" ref="servicios:index:preguntas-frecuentes:contacto:búsqueda-con-tracking:ayuda-amazon:cotizador:instrucciones:ofertas:tarifas-de-servicio-a-domicilio:centro-de-ayuda"/>
-    <file name="contacto-servicio-al-cliente.css" crc="4175783627" ref="contacto-servicio-al-cliente"/>
-    <file name="contacto-sugerencias.css" crc="418260309" ref="contacto-sugerencias"/>
-    <file name="tarifas-de-servicio-a-domicilio.css" crc="3998503263" ref="tarifas-de-servicio-a-domicilio"/>
-    <file name="ayuda-amazon.css" crc="3940942979" ref="ayuda-amazon"/>
+    <file name="contacto-servicio-al-cliente.css" crc="336318003" ref="contacto-servicio-al-cliente"/>
+    <file name="contacto-sugerencias.css" crc="3893530923" ref="contacto-sugerencias"/>
+    <file name="tarifas-de-servicio-a-domicilio.css" crc="156023213" ref="tarifas-de-servicio-a-domicilio"/>
+    <file name="ayuda-amazon.css" crc="267868744" ref="ayuda-amazon"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
@@ -50,17 +50,17 @@
     <file name="gopro1.jpg" crc="237865015" ref="index"/>
     <file name="iphone6.jpg" crc="136084591" ref="index"/>
   </folder>
-  <file name="index.html" crc="3987893901" mt="1421886506728" redirect="true"/>
-  <file name="contacto.html" crc="4010289116" mt="1421886309255" redirect="true"/>
-  <file name="cotizador.html" crc="193372059" mt="1421886309256" redirect="true"/>
-  <file name="búsqueda-con-tracking.html" crc="121090945" mt="1421886309258" redirect="true"/>
-  <file name="servicios.html" crc="4249784411" mt="1421886309260" redirect="true"/>
-  <file name="ofertas.html" crc="3774086812" mt="1421886309262" redirect="true"/>
-  <file name="preguntas-frecuentes.html" crc="3765166424" mt="1421886309263" redirect="true"/>
-  <file name="instrucciones.html" crc="4092284869" mt="1421886309266" redirect="true"/>
-  <file name="centro-de-ayuda.html" crc="130045082" mt="1421890344624" redirect="true"/>
-  <file name="contacto-servicio-al-cliente.html" crc="142950300" mt="1421886309239" redirect="true"/>
-  <file name="contacto-sugerencias.html" crc="4085155341" mt="1421886309241" redirect="true"/>
-  <file name="tarifas-de-servicio-a-domicilio.html" crc="4250333619" mt="1421886309270" redirect="true"/>
-  <file name="ayuda-amazon.html" crc="330174269" mt="1421890243249" redirect="true"/>
+  <file name="index.html" crc="3987893901" mt="1421897441325" redirect="true"/>
+  <file name="contacto.html" crc="4010289116" mt="1421897441325" redirect="true"/>
+  <file name="cotizador.html" crc="193372059" mt="1421897441325" redirect="true"/>
+  <file name="búsqueda-con-tracking.html" crc="4234252534" mt="1421897509000" redirect="true"/>
+  <file name="servicios.html" crc="4249784411" mt="1421897441325" redirect="true"/>
+  <file name="ofertas.html" crc="3774086812" mt="1421897441341" redirect="true"/>
+  <file name="preguntas-frecuentes.html" crc="3765166424" mt="1421897441341" redirect="true"/>
+  <file name="instrucciones.html" crc="4092284869" mt="1421897441341" redirect="true"/>
+  <file name="centro-de-ayuda.html" crc="130045082" mt="1421897441341" redirect="true"/>
+  <file name="contacto-servicio-al-cliente.html" crc="142950300" mt="1421897441310" redirect="true"/>
+  <file name="contacto-sugerencias.html" crc="4085155341" mt="1421897441310" redirect="true"/>
+  <file name="tarifas-de-servicio-a-domicilio.html" crc="4250333619" mt="1421897441341" redirect="true"/>
+  <file name="ayuda-amazon.html" crc="330174269" mt="1421897441341" redirect="true"/>
 </manifest>
