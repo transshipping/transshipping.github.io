@@ -1,21 +1,21 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="master_a-p_gina-maestra.css" crc="4187629387" ref="contacto:ofertas:cotizador:centro-de-ayuda:index:servicios:instrucciones:búsqueda-con-tracking:preguntas-frecuentes:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
+    <file name="master_a-p_gina-maestra.css" crc="121870155" ref="contacto:ofertas:cotizador:centro-de-ayuda:index:servicios:instrucciones:búsqueda-con-tracking:preguntas-frecuentes:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
     <file name="contacto.css" crc="4140378245" ref="contacto"/>
     <file name="ofertas.css" crc="342655814" ref="ofertas"/>
-    <file name="cotizador.css" crc="275539699" ref="cotizador"/>
+    <file name="cotizador.css" crc="273916887" ref="cotizador"/>
     <file name="centro-de-ayuda.css" crc="288818637" ref="centro-de-ayuda"/>
-    <file name="index.css" crc="349267574" ref="index"/>
+    <file name="index.css" crc="27263695" ref="index"/>
     <file name="servicios.css" crc="5782260" ref="servicios"/>
-    <file name="instrucciones.css" crc="4188335621" ref="instrucciones"/>
+    <file name="instrucciones.css" crc="267618302" ref="instrucciones"/>
     <file name="b_squeda-con-tracking.css" crc="201359366" ref="búsqueda-con-tracking"/>
-    <file name="preguntas-frecuentes.css" crc="4044798349" ref="preguntas-frecuentes"/>
+    <file name="preguntas-frecuentes.css" crc="4220709458" ref="preguntas-frecuentes"/>
     <file name="master_b-p_gina-maestra.css" crc="505458731" ref="servicios:index:preguntas-frecuentes:contacto:búsqueda-con-tracking:ayuda-amazon:cotizador:instrucciones:ofertas:tarifas-de-servicio-a-domicilio:centro-de-ayuda"/>
     <file name="contacto-servicio-al-cliente.css" crc="4100316133" ref="contacto-servicio-al-cliente"/>
     <file name="contacto-sugerencias.css" crc="337492420" ref="contacto-sugerencias"/>
-    <file name="tarifas-de-servicio-a-domicilio.css" crc="4132477428" ref="tarifas-de-servicio-a-domicilio"/>
-    <file name="ayuda-amazon.css" crc="307029794" ref="ayuda-amazon"/>
+    <file name="tarifas-de-servicio-a-domicilio.css" crc="227534545" ref="tarifas-de-servicio-a-domicilio"/>
+    <file name="ayuda-amazon.css" crc="4282912131" ref="ayuda-amazon"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
@@ -30,17 +30,17 @@
     <file name="touchswipe.js" crc="4156838003" ref="ayuda-amazon:index"/>
   </folder>
   <folder name="images">
-    <file name="u69-grad.png" crc="141933191" ref="index:ayuda-amazon"/>
-    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index:ayuda-amazon"/>
-    <file name="u1175-r-grad.png" crc="4035561675" ref="index:ayuda-amazon"/>
-    <file name="u1175-m-grad.png" crc="101498092" ref="index:ayuda-amazon"/>
+    <file name="u69-grad.png" crc="141933191" ref="index"/>
+    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index"/>
+    <file name="u1175-r-grad.png" crc="4035561675" ref="index"/>
+    <file name="u1175-m-grad.png" crc="101498092" ref="index"/>
     <file name="inicio 1.jpg" crc="411275267" ref="index"/>
     <file name="contacto 1.jpg" crc="415481054" ref="contacto:contacto-servicio-al-cliente:contacto-sugerencias"/>
     <file name="cotizador 1.jpg" crc="4041633319" ref="cotizador"/>
     <file name="busqueda de tracking 1.jpg" crc="323391765" ref="búsqueda-con-tracking:tarifas-de-servicio-a-domicilio"/>
     <file name="servicios 1.jpg" crc="4238532165" ref="servicios:preguntas-frecuentes:instrucciones:ayuda-amazon:centro-de-ayuda"/>
     <file name="ofertas 1.jpg" crc="133647671" ref="ofertas"/>
-    <file name="icono facebook.jpg" crc="350052762" ref="index:ayuda-amazon"/>
+    <file name="icono facebook.jpg" crc="350052762" ref="index"/>
     <file name="servicios contenido.jpg" crc="262155902" ref="servicios"/>
     <file name="precio1.png" crc="274972817" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="ayuda-amazon:index"/>
@@ -49,38 +49,38 @@
     <file name="gopro1.jpg" crc="237865015" ref="index"/>
     <file name="iphone6.jpg" crc="136084591" ref="index"/>
     <file name="paquetes1.jpg" crc="3929049335" ref="ofertas"/>
-    <file name="instrucciones 1y2.jpg" crc="68919765" ref="ayuda-amazon"/>
-    <file name="instrucciones 3.jpg" crc="3934812681" ref="ayuda-amazon"/>
-    <file name="instrucciones 1y22.jpg" crc="23886573" ref="ayuda-amazon"/>
-    <file name="instrucciones 32.jpg" crc="3810448840" ref="ayuda-amazon"/>
-    <file name="instrucciones 7.jpg" crc="496376207" ref="ayuda-amazon"/>
-    <file name="instrucciones 10.jpg" crc="200453379" ref="ayuda-amazon"/>
-    <file name="instrucciones 11y12.jpg" crc="149700254" ref="ayuda-amazon"/>
-    <file name="instrucciones 13.jpg" crc="205020685" ref="ayuda-amazon"/>
-    <file name="instrucciones 14.jpg" crc="4043288143" ref="ayuda-amazon"/>
-    <file name="instrucciones 15.jpg" crc="3829663846" ref="ayuda-amazon"/>
-    <file name="instrucciones 16.jpg" crc="478562204" ref="ayuda-amazon"/>
-    <file name="instrucciones 17.jpg" crc="76208762" ref="ayuda-amazon"/>
-    <file name="instrucciones 21.jpg" crc="4216084947" ref="ayuda-amazon"/>
-    <file name="instrucciones 1y23.jpg" crc="3918413313" ref="ayuda-amazon"/>
-    <file name="instrucciones 33.jpg" crc="4246822156" ref="ayuda-amazon"/>
-    <file name="instrucciones 4.jpg" crc="385169986" ref="ayuda-amazon"/>
-    <file name="instrucciones 5.jpg" crc="233325519" ref="ayuda-amazon"/>
-    <file name="instrucciones 6.jpg" crc="119837352" ref="ayuda-amazon"/>
-    <file name="instrucciones 72.jpg" crc="4224616656" ref="ayuda-amazon"/>
     <file name="amazon.jpg" crc="410659008" ref="centro-de-ayuda"/>
+    <file name="instrucciones amazon abrir cuenta 1y2.jpg" crc="253871628" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon abrir cuenta 3.jpg" crc="4081198061" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 1y2.jpg" crc="10918774" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 3.jpg" crc="345291971" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 7.jpg" crc="529596950" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 10.jpg" crc="4085048788" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 11y12.jpg" crc="398630120" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 13.jpg" crc="3979147310" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 14.jpg" crc="3982197687" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 15.jpg" crc="387329834" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 16.jpg" crc="473673853" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 17.jpg" crc="4076206283" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon compra 21.jpg" crc="4203142658" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 1y2.jpg" crc="3918413313" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 3.jpg" crc="4246822156" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 4.jpg" crc="385169986" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 5.jpg" crc="233325519" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 6.jpg" crc="119837352" ref="ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 7.jpg" crc="4224616656" ref="ayuda-amazon"/>
   </folder>
-  <file name="index.html" crc="3987893901" mt="1422665862180" redirect="true"/>
-  <file name="contacto.html" crc="4010289116" mt="1422665862184" redirect="true"/>
-  <file name="cotizador.html" crc="196388359" mt="1422665862187" redirect="true"/>
-  <file name="búsqueda-con-tracking.html" crc="3776669310" mt="1422665862190" redirect="true"/>
-  <file name="servicios.html" crc="4249784411" mt="1422665862193" redirect="true"/>
-  <file name="ofertas.html" crc="4145329513" mt="1422666822927" redirect="true"/>
-  <file name="preguntas-frecuentes.html" crc="3765166424" mt="1422665862198" redirect="true"/>
-  <file name="instrucciones.html" crc="4034804578" mt="1422665862201" redirect="true"/>
-  <file name="centro-de-ayuda.html" crc="51542374" mt="1422667366446" redirect="true"/>
-  <file name="contacto-servicio-al-cliente.html" crc="142950300" mt="1422665862157" redirect="true"/>
-  <file name="contacto-sugerencias.html" crc="4085155341" mt="1422665862162" redirect="true"/>
-  <file name="tarifas-de-servicio-a-domicilio.html" crc="4250333619" mt="1422665862206" redirect="true"/>
-  <file name="ayuda-amazon.html" crc="3835399032" mt="1422668827241" redirect="true"/>
+  <file name="index.html" crc="3937581371" mt="1422718845370" redirect="true"/>
+  <file name="contacto.html" crc="390179619" mt="1422718845373" redirect="true"/>
+  <file name="cotizador.html" crc="299081189" mt="1422718845375" redirect="true"/>
+  <file name="búsqueda-con-tracking.html" crc="4257738902" mt="1422718845377" redirect="true"/>
+  <file name="servicios.html" crc="246821788" mt="1422718845380" redirect="true"/>
+  <file name="ofertas.html" crc="268165382" mt="1422718845382" redirect="true"/>
+  <file name="preguntas-frecuentes.html" crc="468568406" mt="1422718845384" redirect="true"/>
+  <file name="instrucciones.html" crc="230072879" mt="1422718845387" redirect="true"/>
+  <file name="centro-de-ayuda.html" crc="3939508488" mt="1422718845394" redirect="true"/>
+  <file name="contacto-servicio-al-cliente.html" crc="4074932841" mt="1422718845361" redirect="true"/>
+  <file name="contacto-sugerencias.html" crc="261683298" mt="1422718845364" redirect="true"/>
+  <file name="tarifas-de-servicio-a-domicilio.html" crc="113672555" mt="1422718845392" redirect="true"/>
+  <file name="ayuda-amazon.html" crc="4085788685" mt="1422718845389" redirect="true"/>
 </manifest>

@@ -629,8 +629,8 @@
 	border-color: #999999;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #252E69;
+	text-align: center;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -709,8 +709,8 @@
 	border-color: #999999;
 	background-color: transparent;
 	line-height: 20px;
-	text-align: center;
 	color: #252E69;
+	text-align: center;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -821,7 +821,7 @@
 	text-align: justify;
 }
 
-#u1770-41
+#u1745-24,#u1745-31,#u1770-41
 {
 	color: #0000FF;
 }
