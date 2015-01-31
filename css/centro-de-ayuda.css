@@ -559,14 +559,33 @@
 	margin-right: -10000px;
 }
 
+#pu2068-4
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	left: 330px;
+}
+
 #u2068-4
 {
 	z-index: 104;
 	width: 620px;
 	min-height: 43px;
 	position: relative;
-	margin-right: -10000px;
-	left: 330px;
+}
+
+#u2088
+{
+	z-index: 108;
+	width: 299px;
+	height: 159px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 4px;
+	position: relative;
+	background: #FFFFFF url("../images/amazon.jpg") no-repeat left top;
 }
 
 #pu71

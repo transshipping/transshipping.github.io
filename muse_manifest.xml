@@ -5,7 +5,7 @@
     <file name="contacto.css" crc="4140378245" ref="contacto"/>
     <file name="ofertas.css" crc="342655814" ref="ofertas"/>
     <file name="cotizador.css" crc="275539699" ref="cotizador"/>
-    <file name="centro-de-ayuda.css" crc="3945175570" ref="centro-de-ayuda"/>
+    <file name="centro-de-ayuda.css" crc="288818637" ref="centro-de-ayuda"/>
     <file name="index.css" crc="349267574" ref="index"/>
     <file name="servicios.css" crc="5782260" ref="servicios"/>
     <file name="instrucciones.css" crc="4188335621" ref="instrucciones"/>
@@ -15,7 +15,7 @@
     <file name="contacto-servicio-al-cliente.css" crc="4100316133" ref="contacto-servicio-al-cliente"/>
     <file name="contacto-sugerencias.css" crc="337492420" ref="contacto-sugerencias"/>
     <file name="tarifas-de-servicio-a-domicilio.css" crc="4132477428" ref="tarifas-de-servicio-a-domicilio"/>
-    <file name="ayuda-amazon.css" crc="3880668394" ref="ayuda-amazon"/>
+    <file name="ayuda-amazon.css" crc="307029794" ref="ayuda-amazon"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
@@ -30,25 +30,45 @@
     <file name="touchswipe.js" crc="4156838003" ref="ayuda-amazon:index"/>
   </folder>
   <folder name="images">
-    <file name="u69-grad.png" crc="141933191" ref="index"/>
-    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index"/>
-    <file name="u1175-r-grad.png" crc="4035561675" ref="index"/>
-    <file name="u1175-m-grad.png" crc="101498092" ref="index"/>
+    <file name="u69-grad.png" crc="141933191" ref="index:ayuda-amazon"/>
+    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index:ayuda-amazon"/>
+    <file name="u1175-r-grad.png" crc="4035561675" ref="index:ayuda-amazon"/>
+    <file name="u1175-m-grad.png" crc="101498092" ref="index:ayuda-amazon"/>
     <file name="inicio 1.jpg" crc="411275267" ref="index"/>
     <file name="contacto 1.jpg" crc="415481054" ref="contacto:contacto-servicio-al-cliente:contacto-sugerencias"/>
     <file name="cotizador 1.jpg" crc="4041633319" ref="cotizador"/>
     <file name="busqueda de tracking 1.jpg" crc="323391765" ref="búsqueda-con-tracking:tarifas-de-servicio-a-domicilio"/>
     <file name="servicios 1.jpg" crc="4238532165" ref="servicios:preguntas-frecuentes:instrucciones:ayuda-amazon:centro-de-ayuda"/>
     <file name="ofertas 1.jpg" crc="133647671" ref="ofertas"/>
-    <file name="icono facebook.jpg" crc="350052762" ref="index"/>
+    <file name="icono facebook.jpg" crc="350052762" ref="index:ayuda-amazon"/>
     <file name="servicios contenido.jpg" crc="262155902" ref="servicios"/>
     <file name="precio1.png" crc="274972817" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="ayuda-amazon:index"/>
     <file name="playstation4.jpg" crc="72293352" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:ayuda-amazon"/>
     <file name="gopro1.jpg" crc="237865015" ref="index"/>
     <file name="iphone6.jpg" crc="136084591" ref="index"/>
     <file name="paquetes1.jpg" crc="3929049335" ref="ofertas"/>
+    <file name="instrucciones 1y2.jpg" crc="68919765" ref="ayuda-amazon"/>
+    <file name="instrucciones 3.jpg" crc="3934812681" ref="ayuda-amazon"/>
+    <file name="instrucciones 1y22.jpg" crc="23886573" ref="ayuda-amazon"/>
+    <file name="instrucciones 32.jpg" crc="3810448840" ref="ayuda-amazon"/>
+    <file name="instrucciones 7.jpg" crc="496376207" ref="ayuda-amazon"/>
+    <file name="instrucciones 10.jpg" crc="200453379" ref="ayuda-amazon"/>
+    <file name="instrucciones 11y12.jpg" crc="149700254" ref="ayuda-amazon"/>
+    <file name="instrucciones 13.jpg" crc="205020685" ref="ayuda-amazon"/>
+    <file name="instrucciones 14.jpg" crc="4043288143" ref="ayuda-amazon"/>
+    <file name="instrucciones 15.jpg" crc="3829663846" ref="ayuda-amazon"/>
+    <file name="instrucciones 16.jpg" crc="478562204" ref="ayuda-amazon"/>
+    <file name="instrucciones 17.jpg" crc="76208762" ref="ayuda-amazon"/>
+    <file name="instrucciones 21.jpg" crc="4216084947" ref="ayuda-amazon"/>
+    <file name="instrucciones 1y23.jpg" crc="3918413313" ref="ayuda-amazon"/>
+    <file name="instrucciones 33.jpg" crc="4246822156" ref="ayuda-amazon"/>
+    <file name="instrucciones 4.jpg" crc="385169986" ref="ayuda-amazon"/>
+    <file name="instrucciones 5.jpg" crc="233325519" ref="ayuda-amazon"/>
+    <file name="instrucciones 6.jpg" crc="119837352" ref="ayuda-amazon"/>
+    <file name="instrucciones 72.jpg" crc="4224616656" ref="ayuda-amazon"/>
+    <file name="amazon.jpg" crc="410659008" ref="centro-de-ayuda"/>
   </folder>
   <file name="index.html" crc="3987893901" mt="1422665862180" redirect="true"/>
   <file name="contacto.html" crc="4010289116" mt="1422665862184" redirect="true"/>
@@ -58,9 +78,9 @@
   <file name="ofertas.html" crc="4145329513" mt="1422666822927" redirect="true"/>
   <file name="preguntas-frecuentes.html" crc="3765166424" mt="1422665862198" redirect="true"/>
   <file name="instrucciones.html" crc="4034804578" mt="1422665862201" redirect="true"/>
-  <file name="centro-de-ayuda.html" crc="130045082" mt="1422665862210" redirect="true"/>
+  <file name="centro-de-ayuda.html" crc="51542374" mt="1422667366446" redirect="true"/>
   <file name="contacto-servicio-al-cliente.html" crc="142950300" mt="1422665862157" redirect="true"/>
   <file name="contacto-sugerencias.html" crc="4085155341" mt="1422665862162" redirect="true"/>
   <file name="tarifas-de-servicio-a-domicilio.html" crc="4250333619" mt="1422665862206" redirect="true"/>
-  <file name="ayuda-amazon.html" crc="330174269" mt="1422665862204" redirect="true"/>
+  <file name="ayuda-amazon.html" crc="3835399032" mt="1422668827241" redirect="true"/>
 </manifest>
