@@ -58,7 +58,7 @@
 #menuu107
 {
 	z-index: 4;
-	width: 766px;
+	width: 764px;
 	margin-top: 5px;
 }
 
@@ -123,7 +123,7 @@
 
 #u1242
 {
-	width: 103px;
+	width: 108px;
 	min-height: 27px;
 	margin-right: -10000px;
 	left: 88px;
@@ -131,34 +131,34 @@
 
 #u1245
 {
-	width: 102px;
+	width: 107px;
 	padding-bottom: 10px;
 }
 
 #u1245:hover
 {
-	width: 103px;
+	width: 108px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1245:active
 {
-	width: 103px;
+	width: 108px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1245.MuseMenuActive
 {
-	width: 102px;
+	width: 107px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u1248-4
 {
-	width: 55px;
+	width: 60px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 5px;
@@ -186,7 +186,7 @@
 	width: 113px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 193px;
+	left: 198px;
 }
 
 #u1238
@@ -246,7 +246,7 @@
 	width: 215px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 308px;
+	left: 313px;
 }
 
 #u1231
@@ -303,42 +303,42 @@
 
 #u1221
 {
-	width: 125px;
+	width: 118px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 525px;
+	left: 530px;
 }
 
 #u1224
 {
-	width: 124px;
+	width: 117px;
 	padding-bottom: 10px;
 }
 
 #u1224:hover
 {
-	width: 125px;
+	width: 118px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1224:active
 {
-	width: 125px;
+	width: 118px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1224.MuseMenuActive
 {
-	width: 124px;
+	width: 117px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u1227-4
 {
-	width: 78px;
+	width: 71px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 5px;
@@ -366,7 +366,7 @@
 	width: 114px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 652px;
+	left: 650px;
 }
 
 #u1203
@@ -561,7 +561,7 @@
 #u1598
 {
 	z-index: 104;
-	width: 620px;
+	width: 630px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -571,35 +571,62 @@
 #u1600
 {
 	z-index: 105;
-	width: 271px;
-	height: 257px;
+	width: 630px;
 	border-style: none;
 	border-color: transparent;
+	padding-bottom: 573px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/construccion.png") no-repeat left top;
+	background: transparent url("../images/paquetes1.jpg") no-repeat center top;
 }
 
-#u1599-6
+#u1599-4
 {
 	z-index: 106;
-	width: 334px;
-	min-height: 119px;
-	line-height: 58px;
+	width: 362px;
+	min-height: 142px;
+	line-height: 43px;
 	color: #333333;
-	font-size: 48px;
+	font-size: 36px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 91px;
-	left: 286px;
+	margin-top: 23px;
+	left: 24px;
+}
+
+#u2086-4
+{
+	z-index: 110;
+	width: 337px;
+	min-height: 55px;
+	color: #252E69;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 196px;
+	left: 352px;
+}
+
+#u2087-7
+{
+	z-index: 114;
+	width: 164px;
+	min-height: 55px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 318px;
+	left: 357px;
+}
+
+#u2087
+{
+	color: #252E69;
 }
 
 #pu71
 {
 	width: 0.01px;
 	left: -100px;
-	margin-top: 42px;
 	position: relative;
 }
 
@@ -681,28 +708,12 @@
 	margin: 0px 0px 0px 83px;
 }
 
-#u1577-4
-{
-	z-index: 72;
-	width: 124px;
-	min-height: 17px;
-	margin-left: 85px;
-	margin-top: 17px;
-}
-
-#u1577-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 17px 0px 0px 85px;
-}
-
 #u1813-4
 {
 	z-index: 94;
 	width: 209px;
 	min-height: 17px;
+	margin-top: 34px;
 }
 
 #u395-4
@@ -721,5 +732,23 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	margin: 35px -10000px 0px 0px;
+}
+
+#u1577-4
+{
+	z-index: 72;
+	width: 124px;
+	min-height: 17px;
+	margin-right: -10000px;
+	margin-top: 52px;
+	left: 926px;
+}
+
+#u1577-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 52px -10000px 0px 0px;
 }
 
