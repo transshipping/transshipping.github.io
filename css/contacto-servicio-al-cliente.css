@@ -472,7 +472,7 @@
 
 #u1696
 {
-	z-index: 102;
+	z-index: 107;
 	width: 960px;
 	height: 150px;
 	-pie-box-shadow: 3px 3px 4px #CCCCCC;
@@ -489,36 +489,101 @@
 	background: #FFFFFF url("../images/contacto%201.jpg") no-repeat left top;
 }
 
-#u1695-4
+#ppu1637
+{
+	width: 0.01px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#pu1637
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1637
+{
+	z-index: 100;
+	width: 192px;
+	min-height: 28px;
+}
+
+#pu1633
+{
+	width: 0.01px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u1633
 {
 	z-index: 98;
+	width: 215px;
+	min-height: 32px;
+	margin-right: -10000px;
+}
+
+#u1639
+{
+	z-index: 101;
+	width: 121px;
+	min-height: 24px;
+	margin-right: -10000px;
+	left: 179px;
+}
+
+#u1695-4
+{
+	z-index: 103;
 	width: 592px;
 	min-height: 24px;
 	line-height: 19px;
 	color: #252E69;
 	font-size: 16px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	margin-left: 331px;
-	margin-top: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 331px;
+}
+
+#pu1635
+{
+	width: 0.01px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
 }
 
-#pu1697-24
+#u1635
 {
-	width: 0.01px;
-	margin-left: 331px;
-	margin-top: 6px;
-	position: relative;
+	z-index: 99;
+	width: 300px;
+	min-height: 307px;
+	margin-right: -10000px;
+	margin-top: 58px;
+}
+
+#u1641
+{
+	z-index: 102;
+	width: 300px;
+	min-height: 100px;
+	margin-right: -10000px;
+	margin-top: 4px;
 }
 
 #u1697-24
 {
-	z-index: 103;
+	z-index: 108;
 	width: 255px;
 	min-height: 310px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
+	left: 331px;
 }
 
 #u1697-2,#u1697-4,#u1697-5,#u1697-7,#u1697-8,#u1697-10,#u1697-12,#u1697-14,#u1697-16,#u1697-18,#u1697-19,#u1697-21
@@ -529,7 +594,7 @@
 
 #u1924
 {
-	z-index: 127;
+	z-index: 132;
 	width: 350px;
 	min-height: 464px;
 	border-style: none;
@@ -537,7 +602,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 269px;
+	left: 600px;
 }
 
 #pu71

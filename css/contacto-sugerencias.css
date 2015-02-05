@@ -477,7 +477,7 @@
 
 #u1740
 {
-	z-index: 102;
+	z-index: 107;
 	width: 960px;
 	height: 150px;
 	-pie-box-shadow: 3px 3px 4px #CCCCCC;
@@ -494,21 +494,85 @@
 	background: #FFFFFF url("../images/contacto%201.jpg") no-repeat left top;
 }
 
-#pu1741-24
+#ppu1637
 {
 	width: 0.01px;
-	margin-left: 331px;
-	margin-top: 24px;
+	margin-top: 10px;
 	position: relative;
+}
+
+#pu1637
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1637
+{
+	z-index: 100;
+	width: 192px;
+	min-height: 28px;
+}
+
+#pu1633
+{
+	width: 0.01px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u1633
+{
+	z-index: 98;
+	width: 215px;
+	min-height: 32px;
+	margin-right: -10000px;
+}
+
+#u1639
+{
+	z-index: 101;
+	width: 121px;
+	min-height: 24px;
+	margin-right: -10000px;
+	left: 179px;
+}
+
+#pu1635
+{
+	width: 0.01px;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
+}
+
+#u1635
+{
+	z-index: 99;
+	width: 300px;
+	min-height: 307px;
+	margin-right: -10000px;
+	margin-top: 54px;
+}
+
+#u1641
+{
+	z-index: 102;
+	width: 300px;
+	min-height: 100px;
+	margin-right: -10000px;
 }
 
 #u1741-24
 {
-	z-index: 103;
+	z-index: 108;
 	width: 255px;
 	min-height: 310px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 14px;
+	left: 331px;
 }
 
 #u1741-2,#u1741-4,#u1741-5,#u1741-7,#u1741-8,#u1741-10,#u1741-12,#u1741-14,#u1741-16,#u1741-18,#u1741-19,#u1741-21
@@ -522,12 +586,13 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	left: 264px;
+	margin-top: 14px;
+	left: 595px;
 }
 
 #u1739-4
 {
-	z-index: 98;
+	z-index: 103;
 	width: 301px;
 	min-height: 24px;
 	line-height: 19px;
@@ -539,7 +604,7 @@
 
 #u1926
 {
-	z-index: 127;
+	z-index: 132;
 	width: 350px;
 	min-height: 457px;
 	border-style: none;
