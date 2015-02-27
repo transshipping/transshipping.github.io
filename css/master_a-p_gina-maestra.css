@@ -419,6 +419,20 @@
 	position: relative;
 }
 
+#u2988-5
+{
+	background-color: transparent;
+	color: #252E69;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u2988
+{
+	text-decoration: none;
+	color: #252E69;
+}
+
 #u71
 {
 	border-style: none;
@@ -441,8 +455,8 @@
 
 #u188-4
 {
-	line-height: 14px;
 	color: #252E69;
+	line-height: 14px;
 	font-size: 12px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -495,7 +509,7 @@
 	position: relative;
 }
 
-#u286-4:hover p,#u904-4:hover p,#u189-4:hover p,#u1577-4:hover p,#u395-4:hover p
+#u286-4:hover p,#u904-4:hover p,#u2988-5:hover p,#u2988-5:hover a,#u2988-5:hover span,#u189-4:hover p,#u1577-4:hover p,#u395-4:hover p
 {
 	text-decoration: underline;
 }
