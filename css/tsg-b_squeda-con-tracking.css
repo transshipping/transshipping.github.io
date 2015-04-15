@@ -486,9 +486,9 @@
 	margin: 2px 0px 0px;
 }
 
-#u1777
+#u1152
 {
-	z-index: 108;
+	z-index: 113;
 	width: 960px;
 	height: 150px;
 	-pie-box-shadow: 3px 3px 4px #CCCCCC;
@@ -513,25 +513,11 @@
 	margin-top: 10px;
 }
 
-#pppu1633
-{
-	width: 0.01px;
-	left: -50px;
-	margin-top: 5px;
-	position: relative;
-}
-
-#ppu1633
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
-}
-
 #pu1633
 {
 	width: 0.01px;
-	margin-left: 50px;
+	top: -8px;
+	margin-bottom: -8px;
 	position: relative;
 }
 
@@ -541,6 +527,7 @@
 	width: 215px;
 	min-height: 32px;
 	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u1639
@@ -549,15 +536,85 @@
 	width: 121px;
 	min-height: 24px;
 	margin-right: -10000px;
+	margin-top: 13px;
 	left: 179px;
 }
 
-#pu1641
+#u1116-4
+{
+	z-index: 109;
+	width: 582px;
+	min-height: 18px;
+	line-height: 22px;
+	color: #252E69;
+	font-size: 18px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	font-weight: normal;
+	position: relative;
+	margin-right: -10000px;
+	left: 330px;
+}
+
+#ppu1895-4
 {
 	width: 0.01px;
+	left: -50px;
 	top: -3px;
 	margin-bottom: -3px;
 	position: relative;
+}
+
+#pu1895-4
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 423px;
+}
+
+#u1895-4
+{
+	z-index: 114;
+	width: 459px;
+	min-height: 26px;
+	line-height: 14px;
+	color: #252E69;
+	font-size: 12px;
+	margin-left: 19px;
+	position: relative;
+}
+
+#pu1588
+{
+	width: 0.01px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u1588
+{
+	z-index: 108;
+	width: 496px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1894
+{
+	z-index: 118;
+	width: 165px;
+	height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E6E7EF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 46px;
 }
 
 #u1641
@@ -576,40 +633,6 @@
 	min-height: 364px;
 	margin-right: -10000px;
 	margin-top: 50px;
-}
-
-#pu1812-19
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 380px;
-}
-
-#u1812-19
-{
-	z-index: 109;
-	width: 630px;
-	min-height: 76px;
-	color: #252E69;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	position: relative;
-}
-
-#u2985-4
-{
-	z-index: 128;
-	width: 453px;
-	min-height: 142px;
-	color: #333333;
-	line-height: 43px;
-	font-size: 36px;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	margin-left: 76px;
-	margin-top: 14px;
-	position: relative;
 }
 
 #pu71

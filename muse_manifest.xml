@@ -1,33 +1,33 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="master_a-p_gina-maestra.css" crc="309102528" ref="contacto:ofertas:cotizador:centro-de-ayuda:index:servicios:instrucciones:búsqueda-con-tracking:preguntas-frecuentes:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
-    <file name="contacto.css" crc="319686395" ref="contacto"/>
-    <file name="ofertas.css" crc="3797569156" ref="ofertas"/>
-    <file name="cotizador.css" crc="4188371015" ref="cotizador"/>
-    <file name="centro-de-ayuda.css" crc="334165115" ref="centro-de-ayuda"/>
+    <file name="master_a-p_gina-maestra.css" crc="532845434" ref="contacto:index:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda"/>
+    <file name="contacto.css" crc="131709099" ref="contacto"/>
     <file name="index.css" crc="3933943556" ref="index"/>
-    <file name="servicios.css" crc="4076718364" ref="servicios"/>
-    <file name="instrucciones.css" crc="3792586997" ref="instrucciones"/>
-    <file name="b_squeda-con-tracking.css" crc="169863950" ref="búsqueda-con-tracking"/>
-    <file name="preguntas-frecuentes.css" crc="4002105639" ref="preguntas-frecuentes"/>
-    <file name="master_b-p_gina-maestra.css" crc="4107270351" ref="servicios:index:preguntas-frecuentes:contacto:búsqueda-con-tracking:ayuda-amazon:cotizador:instrucciones:ofertas:tarifas-de-servicio-a-domicilio:centro-de-ayuda:contacto-sugerencias:contacto-servicio-al-cliente"/>
-    <file name="contacto-servicio-al-cliente.css" crc="225124107" ref="contacto-servicio-al-cliente"/>
-    <file name="contacto-sugerencias.css" crc="420200922" ref="contacto-sugerencias"/>
-    <file name="tarifas-de-servicio-a-domicilio.css" crc="73427593" ref="tarifas-de-servicio-a-domicilio"/>
-    <file name="ayuda-amazon.css" crc="4105142594" ref="ayuda-amazon"/>
+    <file name="master_b-p_gina-maestra.css" crc="4107270351" ref="index:contacto:contacto-sugerencias:contacto-servicio-al-cliente:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda"/>
+    <file name="contacto-servicio-al-cliente.css" crc="52201884" ref="contacto-servicio-al-cliente"/>
+    <file name="contacto-sugerencias.css" crc="4233557620" ref="contacto-sugerencias"/>
+    <file name="tsg-cotizador.css" crc="4188371015" ref="tsg-cotizador"/>
+    <file name="tsg-ofertas.css" crc="474394859" ref="tsg-ofertas"/>
+    <file name="tsg-servicios.css" crc="4076718364" ref="tsg-servicios"/>
+    <file name="tsg-tarifas-de-servicio-a-domicilio.css" crc="4109353140" ref="tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="tsg-b_squeda-con-tracking.css" crc="4182598007" ref="tsg-búsqueda-con-tracking"/>
+    <file name="tsg-preguntas-frecuentes.css" crc="74773621" ref="tsg-preguntas-frecuentes"/>
+    <file name="tsg-instrucciones.css" crc="3792586997" ref="tsg-instrucciones"/>
+    <file name="tsg-ayuda-amazon.css" crc="4025928279" ref="tsg-ayuda-amazon"/>
+    <file name="tsg-centro-de-ayuda.css" crc="334165115" ref="tsg-centro-de-ayuda"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
-    <file name="museutils.js" crc="4291592202" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
-    <file name="pie.js" crc="3827607177" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon:centro-de-ayuda"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:cotizador:búsqueda-con-tracking:servicios:ofertas:preguntas-frecuentes:instrucciones:centro-de-ayuda:contacto-servicio-al-cliente:contacto-sugerencias:tarifas-de-servicio-a-domicilio:ayuda-amazon"/>
-    <file name="webpro.js" crc="3903299128" ref="preguntas-frecuentes:instrucciones:ayuda-amazon:index"/>
-    <file name="musewpdisclosure.js" crc="4285748861" ref="preguntas-frecuentes:instrucciones:ayuda-amazon"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="ayuda-amazon:index"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="ayuda-amazon:index"/>
-    <file name="touchswipe.js" crc="4156838003" ref="ayuda-amazon:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="pie.js" crc="3827607177" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="webpro.js" crc="3903299128" ref="index:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:tsg-ayuda-amazon"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:tsg-ayuda-amazon"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:tsg-ayuda-amazon"/>
   </folder>
   <folder name="images">
     <file name="u69-grad.png" crc="141933191" ref="index"/>
@@ -36,51 +36,51 @@
     <file name="u1175-m-grad.png" crc="101498092" ref="index"/>
     <file name="inicio 1.jpg" crc="411275267" ref="index"/>
     <file name="contacto 1.jpg" crc="415481054" ref="contacto:contacto-servicio-al-cliente:contacto-sugerencias"/>
-    <file name="cotizador 1.jpg" crc="4041633319" ref="cotizador"/>
-    <file name="busqueda de tracking 1.jpg" crc="323391765" ref="búsqueda-con-tracking:tarifas-de-servicio-a-domicilio"/>
-    <file name="servicios 1.jpg" crc="4238532165" ref="servicios:preguntas-frecuentes:instrucciones:ayuda-amazon:centro-de-ayuda"/>
-    <file name="ofertas 1.jpg" crc="133647671" ref="ofertas"/>
+    <file name="cotizador 1.jpg" crc="4041633319" ref="tsg-cotizador"/>
+    <file name="busqueda de tracking 1.jpg" crc="323391765" ref="tsg-búsqueda-con-tracking:tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="servicios 1.jpg" crc="4238532165" ref="tsg-servicios:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda"/>
+    <file name="ofertas 1.jpg" crc="133647671" ref="tsg-ofertas"/>
     <file name="icono facebook.jpg" crc="350052762" ref="index"/>
-    <file name="servicios contenido.jpg" crc="262155902" ref="servicios"/>
+    <file name="servicios contenido.jpg" crc="262155902" ref="tsg-servicios"/>
     <file name="precio1.png" crc="274972817" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="ayuda-amazon:index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:tsg-ayuda-amazon"/>
     <file name="playstation4.jpg" crc="72293352" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:ayuda-amazon"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tsg-ayuda-amazon"/>
     <file name="gopro1.jpg" crc="237865015" ref="index"/>
     <file name="iphone6.jpg" crc="136084591" ref="index"/>
-    <file name="paquetes1.jpg" crc="3929049335" ref="ofertas"/>
-    <file name="amazon.jpg" crc="410659008" ref="centro-de-ayuda"/>
-    <file name="instrucciones amazon abrir cuenta 1y2.jpg" crc="253871628" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon abrir cuenta 3.jpg" crc="4081198061" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 1y2.jpg" crc="10918774" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 3.jpg" crc="345291971" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 7.jpg" crc="529596950" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 10.jpg" crc="4085048788" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 11y12.jpg" crc="398630120" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 13.jpg" crc="3979147310" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 14.jpg" crc="3982197687" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 15.jpg" crc="387329834" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 16.jpg" crc="473673853" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 17.jpg" crc="4076206283" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon compra 21.jpg" crc="4203142658" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon cancelar orden 1y2.jpg" crc="3918413313" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon cancelar orden 3.jpg" crc="4246822156" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon cancelar orden 4.jpg" crc="385169986" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon cancelar orden 5.jpg" crc="233325519" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon cancelar orden 6.jpg" crc="119837352" ref="ayuda-amazon"/>
-    <file name="instrucciones amazon cancelar orden 7.jpg" crc="4224616656" ref="ayuda-amazon"/>
+    <file name="paquetes1.jpg" crc="3929049335" ref="tsg-ofertas"/>
+    <file name="amazon.jpg" crc="410659008" ref="tsg-centro-de-ayuda"/>
+    <file name="instrucciones amazon abrir cuenta 1y2.jpg" crc="253871628" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon abrir cuenta 3.jpg" crc="4081198061" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 1y2.jpg" crc="10918774" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 3.jpg" crc="345291971" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 7.jpg" crc="529596950" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 10.jpg" crc="4085048788" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 11y12.jpg" crc="398630120" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 13.jpg" crc="3979147310" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 14.jpg" crc="3982197687" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 15.jpg" crc="387329834" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 16.jpg" crc="473673853" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 17.jpg" crc="4076206283" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon compra 21.jpg" crc="4203142658" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 1y2.jpg" crc="3918413313" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 3.jpg" crc="4246822156" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 4.jpg" crc="385169986" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 5.jpg" crc="233325519" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 6.jpg" crc="119837352" ref="tsg-ayuda-amazon"/>
+    <file name="instrucciones amazon cancelar orden 7.jpg" crc="4224616656" ref="tsg-ayuda-amazon"/>
   </folder>
-  <file name="index.html" crc="3797967361" mt="1425053146386" redirect="true"/>
-  <file name="contacto.html" crc="176724864" mt="1425053146388" redirect="true"/>
-  <file name="cotizador.html" crc="299093011" mt="1425053146390" redirect="true"/>
-  <file name="búsqueda-con-tracking.html" crc="127772531" mt="1425053146392" redirect="true"/>
-  <file name="servicios.html" crc="3832624609" mt="1425053146394" redirect="true"/>
-  <file name="ofertas.html" crc="68071167" mt="1425053146396" redirect="true"/>
-  <file name="preguntas-frecuentes.html" crc="3867193149" mt="1425053146397" redirect="true"/>
-  <file name="instrucciones.html" crc="152395753" mt="1425053146399" redirect="true"/>
-  <file name="centro-de-ayuda.html" crc="448138955" mt="1425053146420" redirect="true"/>
-  <file name="contacto-servicio-al-cliente.html" crc="415567172" mt="1425053146409" redirect="true"/>
-  <file name="contacto-sugerencias.html" crc="4109802864" mt="1425053146411" redirect="true"/>
-  <file name="tarifas-de-servicio-a-domicilio.html" crc="235939521" mt="1425053146413" redirect="true"/>
-  <file name="ayuda-amazon.html" crc="44134123" mt="1425053146401" redirect="true"/>
+  <file name="index.html" crc="305784960" mt="1429123117842" redirect="true"/>
+  <file name="contacto.html" crc="176939734" mt="1429123117843" redirect="true"/>
+  <file name="contacto-servicio-al-cliente.html" crc="3847822613" mt="1429123117858" redirect="true"/>
+  <file name="contacto-sugerencias.html" crc="4253718383" mt="1429123117859" redirect="true"/>
+  <file name="tsg-cotizador.html" crc="409915806" mt="1429123117845" redirect="true"/>
+  <file name="tsg-búsqueda-con-tracking.html" crc="487501794" mt="1429123117847" redirect="true"/>
+  <file name="tsg-servicios.html" crc="50872887" mt="1429123117849" redirect="true"/>
+  <file name="tsg-ofertas.html" crc="3799446465" mt="1429123117851" redirect="true"/>
+  <file name="tsg-preguntas-frecuentes.html" crc="498020478" mt="1429123117853" redirect="true"/>
+  <file name="tsg-instrucciones.html" crc="329860722" mt="1429123176322" redirect="true"/>
+  <file name="tsg-ayuda-amazon.html" crc="243404069" mt="1429123354019" redirect="true"/>
+  <file name="tsg-tarifas-de-servicio-a-domicilio.html" crc="3994083290" mt="1429123117861" redirect="true"/>
+  <file name="tsg-centro-de-ayuda.html" crc="3981214108" mt="1429123117863" redirect="true"/>
 </manifest>

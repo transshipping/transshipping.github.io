@@ -486,7 +486,7 @@
 	margin: 2px 0px 0px;
 }
 
-#u1138
+#u1777
 {
 	z-index: 108;
 	width: 960px;
@@ -502,22 +502,7 @@
 	-khtml-border-radius: 0px 0px 5px 5px ;
 	border-radius: 0px 0px 5px 5px ;
 	position: relative;
-	background: #FFFFFF url("../images/ofertas%201.jpg") no-repeat left top;
-}
-
-#ppu1637
-{
-	width: 0.01px;
-	left: -50px;
-	margin-top: 10px;
-	position: relative;
-}
-
-#pu1637
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
+	background: #FFFFFF url("../images/busqueda%20de%20tracking%201.jpg") no-repeat left top;
 }
 
 #u1637
@@ -525,14 +510,28 @@
 	z-index: 104;
 	width: 192px;
 	min-height: 28px;
-	margin-left: 50px;
+	margin-top: 10px;
+}
+
+#pppu1633
+{
+	width: 0.01px;
+	left: -50px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#ppu1633
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #pu1633
 {
 	width: 0.01px;
 	margin-left: 50px;
-	margin-top: 5px;
 	position: relative;
 }
 
@@ -579,69 +578,38 @@
 	margin-top: 50px;
 }
 
-#u1598
+#pu1812-19
 {
-	z-index: 109;
-	width: 630px;
+	width: 0.01px;
+	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
+	margin-top: 7px;
 	left: 380px;
 }
 
-#u1600
+#u1812-19
 {
-	z-index: 110;
+	z-index: 109;
 	width: 630px;
-	border-style: none;
-	border-color: transparent;
-	padding-bottom: 573px;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/paquetes1.jpg") no-repeat center top;
-}
-
-#u1599-4
-{
-	z-index: 111;
-	width: 362px;
-	min-height: 142px;
-	color: #333333;
-	line-height: 43px;
-	font-size: 36px;
+	min-height: 76px;
+	color: #252E69;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 24px;
 }
 
-#u2086-4
+#u2985-4
 {
-	z-index: 115;
-	width: 337px;
-	min-height: 55px;
-	color: #252E69;
+	z-index: 128;
+	width: 453px;
+	min-height: 142px;
+	line-height: 43px;
+	color: #333333;
+	font-size: 36px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	margin-left: 76px;
+	margin-top: 14px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 196px;
-	left: 402px;
-}
-
-#u2087-7
-{
-	z-index: 119;
-	width: 164px;
-	min-height: 55px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 318px;
-	left: 407px;
-}
-
-#u2087
-{
-	color: #252E69;
 }
 
 #pu71
@@ -729,12 +697,28 @@
 	margin: 0px 0px 0px 83px;
 }
 
+#u1577-4
+{
+	z-index: 72;
+	width: 124px;
+	min-height: 17px;
+	margin-left: 85px;
+	margin-top: 17px;
+}
+
+#u1577-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 17px 0px 0px 85px;
+}
+
 #u1813-4
 {
 	z-index: 94;
 	width: 209px;
 	min-height: 17px;
-	margin-top: 34px;
 }
 
 #u395-4
@@ -753,23 +737,5 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	margin: 35px -10000px 0px 0px;
-}
-
-#u1577-4
-{
-	z-index: 72;
-	width: 124px;
-	min-height: 17px;
-	margin-right: -10000px;
-	margin-top: 52px;
-	left: 926px;
-}
-
-#u1577-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 52px -10000px 0px 0px;
 }
 

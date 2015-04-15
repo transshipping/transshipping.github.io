@@ -486,9 +486,9 @@
 	margin: 2px 0px 0px;
 }
 
-#u1152
+#u1138
 {
-	z-index: 113;
+	z-index: 108;
 	width: 960px;
 	height: 150px;
 	-pie-box-shadow: 3px 3px 4px #CCCCCC;
@@ -502,7 +502,22 @@
 	-khtml-border-radius: 0px 0px 5px 5px ;
 	border-radius: 0px 0px 5px 5px ;
 	position: relative;
-	background: #FFFFFF url("../images/busqueda%20de%20tracking%201.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/ofertas%201.jpg") no-repeat left top;
+}
+
+#ppu1637
+{
+	width: 0.01px;
+	left: -50px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#pu1637
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u1637
@@ -510,14 +525,14 @@
 	z-index: 104;
 	width: 192px;
 	min-height: 28px;
-	margin-top: 10px;
+	margin-left: 50px;
 }
 
 #pu1633
 {
 	width: 0.01px;
-	top: -8px;
-	margin-bottom: -8px;
+	margin-left: 50px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -527,7 +542,6 @@
 	width: 215px;
 	min-height: 32px;
 	margin-right: -10000px;
-	margin-top: 13px;
 }
 
 #u1639
@@ -536,85 +550,15 @@
 	width: 121px;
 	min-height: 24px;
 	margin-right: -10000px;
-	margin-top: 13px;
 	left: 179px;
 }
 
-#u1116-4
-{
-	z-index: 109;
-	width: 582px;
-	min-height: 18px;
-	line-height: 22px;
-	color: #252E69;
-	font-size: 18px;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	font-weight: normal;
-	position: relative;
-	margin-right: -10000px;
-	left: 330px;
-}
-
-#ppu1895-4
+#pu1641
 {
 	width: 0.01px;
-	left: -50px;
 	top: -3px;
 	margin-bottom: -3px;
 	position: relative;
-}
-
-#pu1895-4
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 423px;
-}
-
-#u1895-4
-{
-	z-index: 114;
-	width: 459px;
-	min-height: 26px;
-	color: #252E69;
-	line-height: 14px;
-	font-size: 12px;
-	margin-left: 19px;
-	position: relative;
-}
-
-#pu1588
-{
-	width: 0.01px;
-	margin-top: 30px;
-	position: relative;
-}
-
-#u1588
-{
-	z-index: 108;
-	width: 496px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u1894
-{
-	z-index: 118;
-	width: 165px;
-	height: 23px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #E6E7EF;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 46px;
 }
 
 #u1641
@@ -633,6 +577,71 @@
 	min-height: 364px;
 	margin-right: -10000px;
 	margin-top: 50px;
+}
+
+#u1598
+{
+	z-index: 109;
+	width: 630px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 380px;
+}
+
+#u1600
+{
+	z-index: 110;
+	width: 630px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 573px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/paquetes1.jpg") no-repeat center top;
+}
+
+#u1599-4
+{
+	z-index: 111;
+	width: 362px;
+	min-height: 142px;
+	line-height: 43px;
+	color: #333333;
+	font-size: 36px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 24px;
+}
+
+#u2086-4
+{
+	z-index: 115;
+	width: 337px;
+	min-height: 55px;
+	color: #252E69;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 196px;
+	left: 402px;
+}
+
+#u2087-7
+{
+	z-index: 119;
+	width: 164px;
+	min-height: 55px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 318px;
+	left: 407px;
+}
+
+#u2087
+{
+	color: #252E69;
 }
 
 #pu71
@@ -720,28 +729,12 @@
 	margin: 0px 0px 0px 83px;
 }
 
-#u1577-4
-{
-	z-index: 72;
-	width: 124px;
-	min-height: 17px;
-	margin-left: 85px;
-	margin-top: 17px;
-}
-
-#u1577-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 17px 0px 0px 85px;
-}
-
 #u1813-4
 {
 	z-index: 94;
 	width: 209px;
 	min-height: 17px;
+	margin-top: 34px;
 }
 
 #u395-4
@@ -760,5 +753,23 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	margin: 35px -10000px 0px 0px;
+}
+
+#u1577-4
+{
+	z-index: 72;
+	width: 124px;
+	min-height: 17px;
+	margin-right: -10000px;
+	margin-top: 52px;
+	left: 926px;
+}
+
+#u1577-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 52px -10000px 0px 0px;
 }
 
