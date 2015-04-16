@@ -1,28 +1,29 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="3983832653"/>
-    <file name="master_a-p_gina-maestra.css" crc="532845434" ref="contacto:index:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda"/>
-    <file name="contacto.css" crc="131709099" ref="contacto"/>
-    <file name="index.css" crc="3933943556" ref="index"/>
-    <file name="master_b-p_gina-maestra.css" crc="4107270351" ref="index:contacto:contacto-sugerencias:contacto-servicio-al-cliente:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda"/>
-    <file name="contacto-servicio-al-cliente.css" crc="52201884" ref="contacto-servicio-al-cliente"/>
-    <file name="contacto-sugerencias.css" crc="4233557620" ref="contacto-sugerencias"/>
-    <file name="tsg-cotizador.css" crc="4188371015" ref="tsg-cotizador"/>
-    <file name="tsg-ofertas.css" crc="474394859" ref="tsg-ofertas"/>
-    <file name="tsg-servicios.css" crc="4076718364" ref="tsg-servicios"/>
-    <file name="tsg-tarifas-de-servicio-a-domicilio.css" crc="4109353140" ref="tsg-tarifas-de-servicio-a-domicilio"/>
-    <file name="tsg-b_squeda-con-tracking.css" crc="4182598007" ref="tsg-búsqueda-con-tracking"/>
-    <file name="tsg-preguntas-frecuentes.css" crc="74773621" ref="tsg-preguntas-frecuentes"/>
-    <file name="tsg-instrucciones.css" crc="3792586997" ref="tsg-instrucciones"/>
-    <file name="tsg-ayuda-amazon.css" crc="4025928279" ref="tsg-ayuda-amazon"/>
-    <file name="tsg-centro-de-ayuda.css" crc="334165115" ref="tsg-centro-de-ayuda"/>
+    <file name="site_global.css" crc="310620213"/>
+    <file name="master_a-p_gina-maestra.css" crc="4154231912" ref="contacto:index:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda:tsg-puntos"/>
+    <file name="contacto.css" crc="4230238672" ref="contacto"/>
+    <file name="index.css" crc="4006636804" ref="index"/>
+    <file name="master_b-p_gina-maestra.css" crc="4107270351" ref="index:contacto:contacto-sugerencias:contacto-servicio-al-cliente:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda:tsg-puntos"/>
+    <file name="contacto-servicio-al-cliente.css" crc="3768988305" ref="contacto-servicio-al-cliente"/>
+    <file name="contacto-sugerencias.css" crc="4254016249" ref="contacto-sugerencias"/>
+    <file name="tsg-cotizador.css" crc="4212899542" ref="tsg-cotizador"/>
+    <file name="tsg-ofertas.css" crc="3923408722" ref="tsg-ofertas"/>
+    <file name="tsg-servicios.css" crc="4054501523" ref="tsg-servicios"/>
+    <file name="tsg-tarifas-de-servicio-a-domicilio.css" crc="3827521101" ref="tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="tsg-b_squeda-con-tracking.css" crc="4042841428" ref="tsg-búsqueda-con-tracking"/>
+    <file name="tsg-preguntas-frecuentes.css" crc="286457271" ref="tsg-preguntas-frecuentes"/>
+    <file name="tsg-instrucciones.css" crc="93697720" ref="tsg-instrucciones"/>
+    <file name="tsg-ayuda-amazon.css" crc="416426430" ref="tsg-ayuda-amazon"/>
+    <file name="tsg-centro-de-ayuda.css" crc="4260691479" ref="tsg-centro-de-ayuda"/>
+    <file name="tsg-puntos.css" crc="261698369" ref="tsg-puntos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
-    <file name="museutils.js" crc="4291592202" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda:tsg-puntos"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda:tsg-puntos"/>
     <file name="pie.js" crc="3827607177" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda:tsg-puntos"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-búsqueda-con-tracking:tsg-servicios:tsg-ofertas:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-tarifas-de-servicio-a-domicilio:tsg-centro-de-ayuda:tsg-puntos"/>
     <file name="webpro.js" crc="3903299128" ref="index:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon"/>
     <file name="musewpdisclosure.js" crc="4285748861" ref="tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon"/>
     <file name="musewpslideshow.js" crc="138381373" ref="index:tsg-ayuda-amazon"/>
@@ -69,18 +70,20 @@
     <file name="instrucciones amazon cancelar orden 5.jpg" crc="233325519" ref="tsg-ayuda-amazon"/>
     <file name="instrucciones amazon cancelar orden 6.jpg" crc="119837352" ref="tsg-ayuda-amazon"/>
     <file name="instrucciones amazon cancelar orden 7.jpg" crc="4224616656" ref="tsg-ayuda-amazon"/>
+    <file name="construccion.png" crc="446486294" ref="tsg-puntos"/>
   </folder>
-  <file name="index.html" crc="305784960" mt="1429123117842" redirect="true"/>
-  <file name="contacto.html" crc="176939734" mt="1429123117843" redirect="true"/>
-  <file name="contacto-servicio-al-cliente.html" crc="3847822613" mt="1429123117858" redirect="true"/>
-  <file name="contacto-sugerencias.html" crc="4253718383" mt="1429123117859" redirect="true"/>
-  <file name="tsg-cotizador.html" crc="409915806" mt="1429123117845" redirect="true"/>
-  <file name="tsg-búsqueda-con-tracking.html" crc="487501794" mt="1429123117847" redirect="true"/>
-  <file name="tsg-servicios.html" crc="50872887" mt="1429123117849" redirect="true"/>
-  <file name="tsg-ofertas.html" crc="3799446465" mt="1429123117851" redirect="true"/>
-  <file name="tsg-preguntas-frecuentes.html" crc="498020478" mt="1429123117853" redirect="true"/>
-  <file name="tsg-instrucciones.html" crc="329860722" mt="1429123176322" redirect="true"/>
-  <file name="tsg-ayuda-amazon.html" crc="243404069" mt="1429123354019" redirect="true"/>
-  <file name="tsg-tarifas-de-servicio-a-domicilio.html" crc="3994083290" mt="1429123117861" redirect="true"/>
-  <file name="tsg-centro-de-ayuda.html" crc="3981214108" mt="1429123117863" redirect="true"/>
+  <file name="index.html" crc="416680134" mt="1429131453842" redirect="true"/>
+  <file name="contacto.html" crc="4084408722" mt="1429131453844" redirect="true"/>
+  <file name="contacto-servicio-al-cliente.html" crc="4011413648" mt="1429131453867" redirect="true"/>
+  <file name="contacto-sugerencias.html" crc="442912335" mt="1429131453874" redirect="true"/>
+  <file name="tsg-cotizador.html" crc="4080889456" mt="1429131453846" redirect="true"/>
+  <file name="tsg-búsqueda-con-tracking.html" crc="179096691" mt="1429131453848" redirect="true"/>
+  <file name="tsg-servicios.html" crc="523659235" mt="1429131453856" redirect="true"/>
+  <file name="tsg-ofertas.html" crc="3837088051" mt="1429131453858" redirect="true"/>
+  <file name="tsg-preguntas-frecuentes.html" crc="477981792" mt="1429131453860" redirect="true"/>
+  <file name="tsg-instrucciones.html" crc="373625897" mt="1429131453862" redirect="true"/>
+  <file name="tsg-ayuda-amazon.html" crc="4229199655" mt="1429131741556" redirect="true"/>
+  <file name="tsg-tarifas-de-servicio-a-domicilio.html" crc="3951173212" mt="1429131453882" redirect="true"/>
+  <file name="tsg-centro-de-ayuda.html" crc="4026787227" mt="1429131453884" redirect="true"/>
+  <file name="tsg-puntos.html" crc="490276576" mt="1429131530523" redirect="true"/>
 </manifest>
