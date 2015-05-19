@@ -586,16 +586,6 @@
 	margin-top: 50px;
 }
 
-#pu1812-19
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 380px;
-}
-
 #u1812-19
 {
 	z-index: 113;
@@ -604,20 +594,9 @@
 	color: #252E69;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
-}
-
-#u2985-4
-{
-	z-index: 132;
-	width: 453px;
-	min-height: 142px;
-	line-height: 43px;
-	color: #333333;
-	font-size: 36px;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	margin-left: 76px;
-	margin-top: 14px;
-	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 380px;
 }
 
 #pu71

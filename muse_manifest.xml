@@ -10,7 +10,7 @@
     <file name="tsg-cotizador.css" crc="4113612869" ref="tsg-cotizador"/>
     <file name="tsg-ofertas.css" crc="467715381" ref="tsg-ofertas"/>
     <file name="tsg-servicios.css" crc="418275817" ref="tsg-servicios"/>
-    <file name="tsg-tarifas-de-servicio-a-domicilio.css" crc="3819690202" ref="tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="tsg-tarifas-de-servicio-a-domicilio.css" crc="32601570" ref="tsg-tarifas-de-servicio-a-domicilio"/>
     <file name="tsg-b_squeda-con-tracking.css" crc="224751044" ref="tsg-búsqueda-con-tracking"/>
     <file name="tsg-preguntas-frecuentes.css" crc="493201427" ref="tsg-preguntas-frecuentes"/>
     <file name="tsg-instrucciones.css" crc="4263516365" ref="tsg-instrucciones"/>
@@ -31,17 +31,17 @@
     <file name="touchswipe.js" crc="4156838003" ref="index:tsg-ayuda-amazon"/>
   </folder>
   <folder name="images">
-    <file name="u69-grad.png" crc="141933191" ref="index"/>
-    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index"/>
-    <file name="u1175-r-grad.png" crc="4035561675" ref="index"/>
-    <file name="u1175-m-grad.png" crc="101498092" ref="index"/>
+    <file name="u69-grad.png" crc="141933191" ref="index:tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="4 cuarto puto intento.png" crc="4239998036" ref="index:tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="u1175-r-grad.png" crc="4035561675" ref="index:tsg-tarifas-de-servicio-a-domicilio"/>
+    <file name="u1175-m-grad.png" crc="101498092" ref="index:tsg-tarifas-de-servicio-a-domicilio"/>
     <file name="inicio 1.jpg" crc="411275267" ref="index:tsg-puntos"/>
     <file name="contacto 1.jpg" crc="415481054" ref="contacto:contacto-servicio-al-cliente:contacto-sugerencias"/>
     <file name="cotizador 1.jpg" crc="4041633319" ref="tsg-cotizador"/>
     <file name="busqueda de tracking 1.jpg" crc="323391765" ref="tsg-búsqueda-con-tracking:tsg-tarifas-de-servicio-a-domicilio"/>
     <file name="servicios 1.jpg" crc="4238532165" ref="tsg-servicios:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda"/>
     <file name="ofertas 1.jpg" crc="133647671" ref="tsg-ofertas"/>
-    <file name="icono facebook.jpg" crc="350052762" ref="index"/>
+    <file name="icono facebook.jpg" crc="350052762" ref="index:tsg-tarifas-de-servicio-a-domicilio"/>
     <file name="servicios contenido.jpg" crc="262155902" ref="tsg-servicios"/>
     <file name="precio1.png" crc="274972817" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:tsg-ayuda-amazon"/>
@@ -83,7 +83,7 @@
   <file name="tsg-preguntas-frecuentes.html" crc="3842195376" mt="1432061126662" redirect="true"/>
   <file name="tsg-instrucciones.html" crc="304709848" mt="1432061126664" redirect="true"/>
   <file name="tsg-ayuda-amazon.html" crc="474805996" mt="1432061126666" redirect="true"/>
-  <file name="tsg-tarifas-de-servicio-a-domicilio.html" crc="4014235520" mt="1432061126672" redirect="true"/>
+  <file name="tsg-tarifas-de-servicio-a-domicilio.html" crc="9062397" mt="1432061697986" redirect="true"/>
   <file name="tsg-centro-de-ayuda.html" crc="187866432" mt="1432061126674" redirect="true"/>
   <file name="tsg-puntos.html" crc="396022681" mt="1432061126676" redirect="true"/>
 </manifest>
