@@ -566,7 +566,6 @@
 #ppu1895-4
 {
 	width: 0.01px;
-	left: -50px;
 	top: -3px;
 	margin-bottom: -3px;
 	position: relative;
@@ -578,7 +577,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 423px;
+	left: 373px;
 }
 
 #u1895-4
@@ -631,14 +630,13 @@
 	width: 300px;
 	min-height: 100px;
 	margin-right: -10000px;
-	left: 50px;
 }
 
-#u3148
+#u3150
 {
 	z-index: 111;
-	width: 350px;
-	min-height: 636px;
+	width: 300px;
+	min-height: 723px;
 	margin-right: -10000px;
 	margin-top: 50px;
 }

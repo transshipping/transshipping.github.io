@@ -544,8 +544,7 @@
 #pppu1633
 {
 	width: 0.01px;
-	padding-bottom: 145px;
-	left: -50px;
+	padding-bottom: 58px;
 	margin-top: 2px;
 	position: relative;
 }
@@ -560,7 +559,6 @@
 #pu1633
 {
 	width: 0.01px;
-	margin-left: 50px;
 	position: relative;
 }
 
@@ -595,14 +593,13 @@
 	width: 300px;
 	min-height: 100px;
 	margin-right: -10000px;
-	left: 50px;
 }
 
-#u3148
+#u3150
 {
 	z-index: 111;
-	width: 350px;
-	min-height: 636px;
+	width: 300px;
+	min-height: 723px;
 	margin-right: -10000px;
 	margin-top: 50px;
 }
@@ -614,7 +611,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
-	left: 384px;
+	left: 334px;
 }
 
 #u1536

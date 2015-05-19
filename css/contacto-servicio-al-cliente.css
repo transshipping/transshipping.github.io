@@ -576,7 +576,6 @@
 #pu1641
 {
 	width: 0.01px;
-	left: -50px;
 	top: -7px;
 	margin-bottom: -7px;
 	position: relative;
@@ -589,14 +588,13 @@
 	min-height: 100px;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 50px;
 }
 
-#u3148
+#u3150
 {
 	z-index: 111;
-	width: 350px;
-	min-height: 636px;
+	width: 300px;
+	min-height: 723px;
 	margin-right: -10000px;
 	margin-top: 54px;
 }
@@ -609,7 +607,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
-	left: 381px;
+	left: 331px;
 }
 
 #u2986-6
@@ -645,7 +643,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 650px;
+	left: 600px;
 }
 
 #pu71
