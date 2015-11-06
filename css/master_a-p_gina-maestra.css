@@ -436,7 +436,9 @@
 #u3021-4
 {
 	background-color: transparent;
+	line-height: 32px;
 	color: #252E69;
+	font-size: 27px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -491,15 +493,6 @@
 	position: relative;
 }
 
-#u1577-4
-{
-	background-color: transparent;
-	color: #252E69;
-	text-align: right;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	position: relative;
-}
-
 #u1813-4
 {
 	color: #252E69;
@@ -517,7 +510,16 @@
 	position: relative;
 }
 
-#u286-4:hover p,#u904-4:hover p,#u2988-5:hover p,#u2988-5:hover a,#u2988-5:hover span,#u3021-4:hover p,#u189-4:hover p,#u1577-4:hover p,#u395-4:hover p
+#u1577-4
+{
+	background-color: transparent;
+	color: #252E69;
+	text-align: right;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u286-4:hover p,#u904-4:hover p,#u2988-5:hover p,#u2988-5:hover a,#u2988-5:hover span,#u3021-4:hover p,#u189-4:hover p,#u395-4:hover p,#u1577-4:hover p
 {
 	text-decoration: underline;
 }
