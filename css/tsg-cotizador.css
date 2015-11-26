@@ -58,7 +58,7 @@
 #menuu107
 {
 	z-index: 4;
-	width: 764px;
+	width: 766px;
 	margin-top: 5px;
 }
 
@@ -123,7 +123,7 @@
 
 #u1242
 {
-	width: 108px;
+	width: 103px;
 	min-height: 27px;
 	margin-right: -10000px;
 	left: 88px;
@@ -131,34 +131,34 @@
 
 #u1245
 {
-	width: 107px;
+	width: 102px;
 	padding-bottom: 10px;
 }
 
 #u1245:hover
 {
-	width: 108px;
+	width: 103px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1245:active
 {
-	width: 108px;
+	width: 103px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1245.MuseMenuActive
 {
-	width: 107px;
+	width: 102px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u1248-4
 {
-	width: 60px;
+	width: 55px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 5px;
@@ -186,7 +186,7 @@
 	width: 113px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 198px;
+	left: 193px;
 }
 
 #u1238
@@ -246,7 +246,7 @@
 	width: 215px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 313px;
+	left: 308px;
 }
 
 #u1231
@@ -303,42 +303,42 @@
 
 #u1221
 {
-	width: 118px;
+	width: 125px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 530px;
+	left: 525px;
 }
 
 #u1224
 {
-	width: 117px;
+	width: 124px;
 	padding-bottom: 10px;
 }
 
 #u1224:hover
 {
-	width: 118px;
+	width: 125px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1224:active
 {
-	width: 118px;
+	width: 125px;
 	min-height: 0px;
 	margin: 0px 1px 0px 0px;
 }
 
 #u1224.MuseMenuActive
 {
-	width: 117px;
+	width: 124px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u1227-4
 {
-	width: 71px;
+	width: 78px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 5px;
@@ -366,7 +366,7 @@
 	width: 114px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 650px;
+	left: 652px;
 }
 
 #u1203
@@ -583,55 +583,32 @@
 	margin-top: 50px;
 }
 
-#pu1753-4
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 22px;
-	left: 330px;
-}
-
-#u1753-4
+#u3189
 {
 	z-index: 113;
-	width: 486px;
-	min-height: 54px;
-	color: #252E69;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	position: relative;
-}
-
-#u2071
-{
-	z-index: 117;
-	width: 177px;
-	min-height: 119px;
+	width: 271px;
+	height: 262px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	margin-left: 188px;
-	margin-top: 36px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 338px;
+	background: transparent url("../images/construccion.png") no-repeat left top;
 }
 
-#u2073-8
+#u3196-4
 {
-	z-index: 118;
-	width: 486px;
-	min-height: 63px;
-	margin-top: 37px;
+	z-index: 114;
+	width: 316px;
+	min-height: 138px;
+	line-height: 58px;
+	color: #333333;
+	font-size: 48px;
 	position: relative;
-}
-
-#u2073
-{
-	color: #252E69;
-}
-
-#u2073-3,#u2073-5
-{
-	color: #0000FF;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 621px;
 }
 
 #pu71

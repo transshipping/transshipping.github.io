@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/site_global.css?310620213"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-p_gina-maestra.css?263291166"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-p_gina-maestra.css?22431423"/>
-  <link rel="stylesheet" type="text/css" href="css/tsg-preguntas-frecuentes.css?4168465408" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/tsg-preguntas-frecuentes.css?431196171" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -153,7 +153,7 @@
        </div>
        <div class="AccordionPanelContent disn clearfix colelem" id="u1403"><!-- group -->
         <div class="clearfix grpelem" id="u1296-4"><!-- content -->
-         <p>Incluye el transporte aéreo y aranceles (impuestos de importación). no incluye entrega a domicilio, con ésto garantizamos mantener nuestras tarifas de importación lo más bajas posible.</p>
+         <p>Incluye el transporte aéreo solamente, los impuestos de entrada al país serán cobrados a parte de la tarifa de $2.95 por libra.</p>
         </div>
        </div>
       </li>
@@ -191,7 +191,7 @@
        <div class="AccordionPanelTab clearfix colelem" id="u1415-4"><!-- content -->
         <p>¿Cuentan con servicio a Domicilio?</p>
        </div>
-       <div class="AccordionPanelContent clearfix colelem" id="u1416"><!-- group -->
+       <div class="AccordionPanelContent disn clearfix colelem" id="u1416"><!-- group -->
         <div class="clearfix grpelem" id="u1323-12"><!-- content -->
          <p>Sí, realizamos entregas a domicilio en los perímetros de la ciudad y en todos los departamentos del país. Para ver las tarifas de entregas en la ciudad haz <a class="nonblock" href="tsg-tarifas-de-servicio-a-domicilio.html">click aquí.</a></p>
          <p>&nbsp;</p>
@@ -250,7 +250,7 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 $('.browser_width').toBrowserWidth();/* browser width elements */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#accordionu1364', function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:8}); });/* #accordionu1364 */
+Muse.Utils.initWidget('#accordionu1364', function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu1364 */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
