@@ -601,7 +601,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/precio285.png") no-repeat left top;
+	background: transparent url("../images/precio%20q64.png") no-repeat left top;
 }
 
 #u3153-8
@@ -715,8 +715,8 @@
 	width: 10px;
 	min-height: 20px;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 80px;

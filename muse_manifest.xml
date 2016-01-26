@@ -3,7 +3,7 @@
     <file name="site_global.css" crc="310620213"/>
     <file name="master_a-p_gina-maestra.css" crc="263291166" ref="contacto:index:contacto-servicio-al-cliente:contacto-sugerencias:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda:tsg-puntos"/>
     <file name="contacto.css" crc="3896059106" ref="contacto"/>
-    <file name="index.css" crc="4159896395" ref="index"/>
+    <file name="index.css" crc="124128462" ref="index"/>
     <file name="master_b-p_gina-maestra.css" crc="22431423" ref="index:contacto:contacto-sugerencias:contacto-servicio-al-cliente:tsg-cotizador:tsg-ofertas:tsg-servicios:tsg-tarifas-de-servicio-a-domicilio:tsg-búsqueda-con-tracking:tsg-preguntas-frecuentes:tsg-instrucciones:tsg-ayuda-amazon:tsg-centro-de-ayuda:tsg-puntos"/>
     <file name="contacto-servicio-al-cliente.css" crc="4215922216" ref="contacto-servicio-al-cliente"/>
     <file name="contacto-sugerencias.css" crc="4000671111" ref="contacto-sugerencias"/>
@@ -69,11 +69,11 @@
     <file name="instrucciones amazon cancelar orden 6.jpg" crc="119837352" ref="tsg-ayuda-amazon"/>
     <file name="instrucciones amazon cancelar orden 7.jpg" crc="4224616656" ref="tsg-ayuda-amazon"/>
     <file name="u3139.png" crc="140227248" ref="tsg-puntos"/>
-    <file name="precio285.png" crc="3957351397" ref="index"/>
     <file name="construccion.png" crc="446486294" ref="tsg-cotizador"/>
     <file name="servicios contenido2.jpg" crc="534693519" ref="tsg-servicios"/>
+    <file name="precio q64.png" crc="4099946878" ref="index"/>
   </folder>
-  <file name="index.html" crc="136714649" mt="1448547620274" redirect="true"/>
+  <file name="index.html" crc="136714649" mt="1453770682854" redirect="true"/>
   <file name="contacto.html" crc="3998871595" mt="1448547620274" redirect="true"/>
   <file name="contacto-servicio-al-cliente.html" crc="4276275494" mt="1448547620305" redirect="true"/>
   <file name="contacto-sugerencias.html" crc="4126605903" mt="1448547620305" redirect="true"/>
