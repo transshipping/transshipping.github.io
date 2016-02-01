@@ -615,8 +615,8 @@
 	-webkit-border-radius: 10px;
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
-	line-height: 35px;
 	color: #000000;
+	line-height: 35px;
 	text-align: justify;
 	font-size: 29px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
@@ -715,8 +715,8 @@
 	width: 10px;
 	min-height: 20px;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 80px;
